@@ -1,8 +1,8 @@
 {
   "name": "edx-theme",
   "private": true,
-  "homepage": "https://github.com/IONISx/edx-theme",
-  "description": "Open edX theme for IONISx",
+  "homepage": "https://github.com/GbalsaC/edXPopulo",
+  "description": "Open edX theme for populo",
   "license": "AGPL",
   "dependencies": {
     "bootstrap": "~3.3.0",

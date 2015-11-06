@@ -1,19 +1,19 @@
 {
   "name": "edx-theme",
   "private": true,
-  "description": "Open edX theme for IONISx",
+  "description": "Open edX theme for populo",
   "repository": {
     "type": "git",
-    "url": "git://github.com/IONISx/edx-theme.git"
+    "url": "git://github.com/GbalsaC/edXPopulo.git"
   },
   "scripts": {
     "test": "grunt test"
   },
   "license": "AGPL",
   "bugs": {
-    "url": "https://github.com/IONISx/edx-theme/issues"
+    "url": "https://github.com/GbalsaC/edXPopulo/issues"
   },
-  "homepage": "https://github.com/IONISx/edx-theme",
+  "homepage": "https://github.com/GbalsaC/edXPopulo",
   "devDependencies": {
     "grunt": "0.4.5",
     "grunt-contrib-less": "1.0.1",
